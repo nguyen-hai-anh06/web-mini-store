@@ -1,0 +1,30 @@
+HƯỚNG DẪN SỬ DỤNG NGROK ĐỂ CHIA SẺ PROJECT
+==========================================
+
+CÁCH CHẠY:
+1. Mở Command Prompt
+2. Di chuyển đến thư mục project: cd [duong-dan]
+3. Chạy lệnh: python run_with_ngrok.py
+
+QUY TRÌNH TỰ ĐỘNG:
+✅ Tự động kiểm tra và cài đặt thư viện cần thiết
+✅ Tự động khởi tạo dữ liệu nếu chưa có
+✅ Tạo link public tự động
+✅ Hiển thị thông tin tài khoản demo
+
+THÔNG TIN TÀI KHOẢN DEMO:
+- Admin: admin@example.com / admin123
+- User:  user@example.com / user123
+
+LƯU Ý:
+🌐 Link ngrok có hiệu lực 2-8 giờ
+🔄 Mỗi lần chạy lại sẽ có link mới
+📱 Có thể truy cập từ điện thoại, máy tính bảng
+🌍 Có thể chia sẻ cho bất kỳ ai có internet
+
+KHI CÔ GIÁO TRUY CẬP:
+1. Gửi link public cho cô giáo
+2. Cô giáo mở trình duyệt và dán link
+3. Đăng nhập bằng tài khoản demo để test
+
+CHÚC THÀNH CÔG! 🎉
